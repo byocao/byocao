@@ -1,28 +1,25 @@
 ### Hi, I'm Byo
 
-I write small programs, mostly for Windows. Most of my time lately goes into
-[MiniStats](https://github.com/byocao/mini-stats), an FPS and hardware overlay I built because the ones I tried
-were either locked to one GPU vendor or used 100+ MB of RAM to show four numbers.
+Software developer based in Vietnam. I build whatever the job needs: web apps, mobile apps, desktop tools,
+and the small scripts and pipelines that hold them together. I'm happy on the frontend, the backend or deep in
+Windows APIs, and I care most about software that's quick, clear and easy to live with.
 
-I'm based in Vietnam and work mostly in C# and .NET, with some React, Next.js and Flutter on the side.
+**What I work with**
 
-<br>
+- **Web:** React, Next.js, TypeScript, Node.js, Vite
+- **Mobile:** Flutter, Dart
+- **Desktop:** C#, .NET, Win32
+- **Tooling:** Python, GitHub Actions, Playwright, Git
 
-**[MiniStats](https://github.com/byocao/mini-stats)**
+**Some things I've made**
 
-<a href="https://github.com/byocao/mini-stats"><img src="https://raw.githubusercontent.com/byocao/mini-stats/main/docs/images/hero.png" alt="MiniStats docked above the taskbar" width="720"></a>
+| | Project | Built with |
+| --- | --- | --- |
+| Web | [game-store](https://github.com/byocao/game-store): a game shop running on live Steam Store data, rebuilt every day. [Live demo](https://byocao.github.io/game-store/) | React, TypeScript, Vite, GitHub Actions |
+| Desktop | [mini-stats](https://github.com/byocao/mini-stats): a small always-on-top FPS, CPU, RAM and GPU overlay for Windows | C#, .NET, Win32 |
+| Mobile | [shoesapp](https://github.com/byocao/shoesapp): a shoe shop app with product pages and a cart | Flutter, Dart |
 
-FPS, CPU, RAM, GPU load, VRAM and GPU temperature in a small click-through bar that stays on top of your game.
-It's a single ~180 KB exe with no installer and no background service.
-[Download the latest release](https://github.com/byocao/mini-stats/releases/latest).
+Most of my day-to-day work lives in private repos, so the list above is only part of it.
 
-<br>
-
-**Older projects**
-
-- [game-store](https://github.com/byocao/game-store): a game store front end on top of the Steam API, in React (2023)
-- [shoesapp](https://github.com/byocao/shoesapp): a shoe shop app in Flutter (2021)
-
-<br>
-
-If something breaks or you have an idea, open an issue. English or Vietnamese is fine.
+If you want to work together or something I made is broken, open an issue or reach out. English or Vietnamese
+is fine.
