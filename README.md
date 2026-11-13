@@ -4,9 +4,12 @@ Software developer based in Vietnam. I build whatever the job needs: web apps, m
 and the small scripts and pipelines that hold them together. I'm happy on the frontend, the backend or deep in
 Windows APIs, and I care most about software that's quick, clear and easy to live with.
 
+My portfolio is at **[byocao.com](https://byocao.com)**: a CRT on a desk with a terminal you can type into.
+
 **What I work with**
 
-- **Web:** React, Next.js, TypeScript, Node.js, Vite, PixiJS
+- **Web:** React, Next.js, TypeScript, Node.js, Vite, PixiJS, three.js
+- **Cloud & AI:** Cloudflare Workers, D1, Workers AI, Claude API
 - **Mobile:** Flutter, Dart, Firebase
 - **Desktop:** C#, .NET, Win32
 - **Tooling:** Python, GitHub Actions, Playwright, Git
@@ -22,6 +25,18 @@ needs you and goes off for a coffee when it's done. Click a character to see wha
 from your desk or your phone.
 
 <sub>Next.js · React · PixiJS · Live2D · Node.js · TypeScript</sub>
+
+<br>
+
+### [Wancha](https://wancha.byocao.com)
+
+<a href="https://wancha.byocao.com"><img src="images/wancha.png" alt="Wancha: learn English with Wanko, a puppy in a matcha bowl" width="100%"></a>
+
+An English app for Vietnamese learners. 40 lessons from A1 to C1, a placement test that picks your level, vocabulary
+games, dictation, and speaking practice that AI scores word by word with tips in Vietnamese. Wanko the puppy cheers
+you on.
+
+<sub>React · TypeScript · Cloudflare Workers · D1 · Workers AI · Claude API · Live2D</sub>
 
 <br>
 
